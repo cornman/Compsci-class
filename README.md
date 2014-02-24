@@ -1,2 +1,2 @@
-computurescienceclass
+computer science class
 =====================
